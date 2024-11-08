@@ -1,0 +1,1 @@
+﻿Invoke-Command -ComputerName cdldvpiapp3 -FilePath c:\todo\RunAnsibleJob.ps1

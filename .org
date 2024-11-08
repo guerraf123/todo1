@@ -1,0 +1,7 @@
+no="proxy="
+npm=config
+registry=https://registry.npmjs.org/
+http-proxy=
+https-proxy=http://guerraf:egAdp^adp01@usproxy.es.oneadp.com:8080
+proxy=http://guerraf:egAdp%5Eadp01@usproxy.es.oneadp.com:8080/
+@types:registry="http://registry.npmjs.org/"
